@@ -1,5 +1,5 @@
 # pugjs
-pug.js projects
+how to use the html engine of pug.js
 
 ## install
 ```shell
